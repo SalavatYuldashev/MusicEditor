@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756ee70e10960034ca93632a293d1e53, type: 3}
+  m_Name: TestTrack
+  m_EditorClassIdentifier: 
+  soloGuitarNotes:
+  - time: 3
+    noteType: 3
+  - time: 9
+    noteType: 3
+  - time: 17
+    noteType: 3
+  rhythmGuitarNotes:
+  - time: 0.5
+    noteType: 3
+  - time: 1.5
+    noteType: 1
+  - time: 2.5
+    noteType: 2
+  - time: 3.5
+    noteType: 0
+  - time: 5.5
+    noteType: 1
+  - time: 7.5
+    noteType: 0
+  - time: 8.5
+    noteType: 3
+  - time: 9.5
+    noteType: 1
+  - time: 10.5
+    noteType: 2
+  - time: 11.5
+    noteType: 0
+  - time: 12.5
+    noteType: 3
+  - time: 13.5
+    noteType: 1
+  - time: 14.5
+    noteType: 2
+  - time: 15.5
+    noteType: 0
+  - time: 16.5
+    noteType: 3
+  - time: 17.5
+    noteType: 1
+  - time: 18.5
+    noteType: 2
+  - time: 19.5
+    noteType: 0
+  bassGuitarNotes:
+  - time: 0.5
+    noteType: 0
+  - time: 1.5
+    noteType: 2
+  - time: 2.5
+    noteType: 1
+  - time: 3.5
+    noteType: 3
+  - time: 4.5
+    noteType: 0
+  - time: 6.5
+    noteType: 2
+  - time: 8.5
+    noteType: 0
+  - time: 9.5
+    noteType: 2
+  - time: 10.5
+    noteType: 1
+  - time: 11.5
+    noteType: 3
+  - time: 12.5
+    noteType: 0
+  - time: 13.5
+    noteType: 2
+  - time: 14.5
+    noteType: 1
+  - time: 15.5
+    noteType: 3
+  - time: 16.5
+    noteType: 0
+  - time: 17.5
+    noteType: 2
+  - time: 18.5
+    noteType: 1
+  - time: 19.5
+    noteType: 3
+  drumsNotes:
+  - time: 2
+    noteType: 0
+  - time: 4
+    noteType: 1
+  - time: 4
+    noteType: 2
+  - time: 6
+    noteType: 3
+  - time: 6
+    noteType: 2
+  - time: 8
+    noteType: 3
+  - time: 8
+    noteType: 0
+  - time: 10
+    noteType: 1
+  - time: 10
+    noteType: 0
+  - time: 12
+    noteType: 1
+  - time: 12
+    noteType: 0
+  - time: 14
+    noteType: 1
+  - time: 14
+    noteType: 0
+  - time: 16
+    noteType: 1
+  soloGuitarSamples:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 4467a98e5313f0a4eb9ee4264ac73a9d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 4467a98e5313f0a4eb9ee4264ac73a9d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 4467a98e5313f0a4eb9ee4264ac73a9d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  rhythmGuitarSamples:
+  - {fileID: 11400000, guid: 46d39f56429784546b7ce54221c7acd3, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 710538e753ef1e14b80bc79f7600ddc9, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 46d39f56429784546b7ce54221c7acd3, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 46d39f56429784546b7ce54221c7acd3, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 46d39f56429784546b7ce54221c7acd3, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  bassGuitarSamples:
+  - {fileID: 11400000, guid: 1e67102c117b1e2479dd821e965c8b4b, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: c65556bfee08c9a49a4550780db219f2, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 1e67102c117b1e2479dd821e965c8b4b, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 1e67102c117b1e2479dd821e965c8b4b, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 1e67102c117b1e2479dd821e965c8b4b, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  drumsSamples:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 9a3188d9f393b0240a8a97b84fc134a6, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: b81afe5c4b44ff54d886b63ee846668a, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: b81afe5c4b44ff54d886b63ee846668a, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 9a3188d9f393b0240a8a97b84fc134a6, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 9a3188d9f393b0240a8a97b84fc134a6, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 9a3188d9f393b0240a8a97b84fc134a6, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 9a3188d9f393b0240a8a97b84fc134a6, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

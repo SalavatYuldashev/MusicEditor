@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bccc54233b01884f88ab7409a06d800, type: 3}
+  m_Name: Drums6
+  m_EditorClassIdentifier: 
+  sampleSprite: {fileID: 21300000, guid: 9f706c1908dae614abf8ce7d170a1dc9, type: 3}
+  buttonSprite: {fileID: 21300000, guid: e450ded7dad80db41849e6b05ba5bee1, type: 3}
+  type: 3
+  keyPointTimes: []
+  audioClip: {fileID: 8300000, guid: 48868b54ce26d504e90ebd185e2a981f, type: 3}
